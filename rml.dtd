@@ -1,0 +1,14 @@
+<!ELEMENT RECIPES (Recipe+)>
+<!ELEMENT Recipe (title,category,ingredients,instructions)>
+<!ATTLIST Recipe cook CDATA>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT ingredients (item+)>
+<!ELEMENT item (name,quantity)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT instructions (cooking,serving)>
+<!ELEMENT cooking (step+)>
+<!ELEMENT step (#PCDATA)>
+<!ELEMENT serving (preference+)>
+<!ELEMENT preference (#PCDATA)>

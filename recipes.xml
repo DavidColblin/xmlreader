@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE recipe SYSTEM "rml.dtd">
+<RECIPES>
+
+   <Recipe cook="Jackie Smith">
+       <title>Salmon Patties</title>
+       <category>Seafood</category>
+       <ingredients>
+           <item>
+               <name>cans pink salmon</name>
+               <quantity>2 (15 ounce)</quantity>
+           </item>
+            <item>
+               <name>onion, finely diced</name>
+               <quantity>1</quantity>
+           </item>
+           <item>
+               <name>egg, beaten</name>
+               <quantity>1</quantity>
+           </item>
+       </ingredients>
+       <instructions>
+           <cooking>
+              <step>In a medium size mixing bowl combine salmon, onion, egg, crackers, salt, pepper, and celery. Mix well.</step>
+              <step>Make patties out of salmon mixture and roll in cornmeal.</step>
+              <step>In a large frying pan over medium high heat oil for frying. Place salmon patties in oil and fry on both sides until golden brown. Drain well. Serve warm.</step>
+           </cooking>
+           <serving>
+               <preferences>The patties are good served with either red wine vinegar or cheese sauce.</preferences>
+               <preferences>Round out your meal serve salmon patties with a big green salad and french bread.</preferences>
+           </serving>
+       </instructions>
+   </Recipe>
+
+   <Recipe cook="Charlie Davis">
+       <title>Cheese Omelette</title>
+       <category>Egg </category>
+       <ingredients>
+           <item>
+               <name>egg</name>
+               <quantity>1</quantity>
+            </item>
+            <item>
+               <name>chedder cheese</name>
+               <quantity>1 to 2 tbs</quantity>
+           </item>
+           <item>
+               <name>butter</name>
+               <quantity>1 1/2 tbs</quantity>
+           </item>
+           <item>
+               <name>honey</name>
+               <quantity>1 tsp</quantity>
+           </item>
+           <item>
+               <name>salt</name>
+               <quantity>1 pinch</quantity>
+           </item>
+           <item>
+               <name>spring onions (optional)</name>
+               <quantity></quantity>
+           </item>
+           <item>
+               <name>tomatoes (optional)</name>
+               <quantity></quantity>
+           </item>
+       </ingredients>
+       <instructions>
+           <cooking>
+              <step>Beat the egg with the pinch of salt</step>
+              <step>Heat a pan and put in half of the butter</step>
+              <step>Spread the egg on the pan and fry on both sides</step>
+              <step>When done, remove it and spread the cheese, and wrap the egg.</step>
+           </cooking>
+           <serving>
+              <preferences>You may serve with honey, butter and bread</preferences>
+           </serving>
+       </instructions>
+   </Recipe>
+
+   <Recipe cook="Levvy Selmon">
+       <title>Beer Pancakes</title>
+       <category>Pancakes </category>
+       <ingredients>
+           <item>
+               <name>sifted all-purpose flour</name>
+               <quantity>1 cup</quantity>
+            </item>
+            <item>
+               <name>white sugar</name>
+               <quantity>1/4 cup</quantity>
+           </item>
+           <item>
+               <name>baking powder</name>
+               <quantity>3/4 teaspoon</quantity>
+           </item>
+           <item>
+               <name>salt</name>
+               <quantity>1/2 teaspoon</quantity>
+           </item>
+           <item>
+               <name>egg, beaten</name>
+               <quantity>1</quantity>
+           </item>
+           <item>
+               <name>beer</name>
+               <quantity>1 cup</quantity>
+           </item>
+
+       </ingredients>
+       <instructions>
+           <cooking>
+              <step>In a large bowl, stir together the flour, sugar, baking powder and salt. Pour in the egg, beer and melted butter; stir with a whisk just until blended - a few lumps are okay.</step>
+              <step>Heat a skillet or griddle over medium heat. Coat with vegetable oil or cooking spray. Spoon about 1/4 cup of batter onto the hot surface for each pancake. When bubbles appear on top of the pancakes, flip, and cook until browned on the other side.</step>
+           </cooking>
+           <serving>
+              <preferences>You may serve with honey, butter and bread</preferences>
+           </serving>
+       </instructions>
+   </Recipe>
+
+
+</RECIPES>
+

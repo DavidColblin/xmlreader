@@ -1,0 +1,46 @@
+#recipeContents{
+    float:right ;
+    width: 60%;
+}
+
+#titles{
+     margin-left: 80px;
+     margin-top: 20px
+}
+
+h1 {
+  color: #888888;
+  text-shadow: 2px 3px 2px white;
+}
+
+
+#main{
+  position: absolute;
+  top: 70px;
+  margin: auto 0;
+  padding: 20px;
+  width: 900px;
+  background: RGBA(255, 255, 255, 0.4) ;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+
+
+body{
+font-family: Calibri;
+background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    color-stop(1, rgb(204,202,202)),
+    color-stop(0, rgb(255,251,255))
+)  ;
+
+background: -moz-linear-gradient(
+    right top,
+    rgb(204,202,202) 2%,
+    rgb(255,251,255) 67% )   ;
+
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbeb', endColorstr='#cccaca');
+
+}
